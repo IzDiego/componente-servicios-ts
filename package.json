@@ -1,6 +1,6 @@
 {
   "name": "@lcmconsultoria/componente-servicios-ts",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Componente que crea tarjetas de servicios",
   "private": false,
